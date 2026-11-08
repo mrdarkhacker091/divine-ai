@@ -1,0 +1,8 @@
+torch
+sentencepiece
+datasets
+numpy
+tqdm
+matplotlib
+fastapi
+uvicorn
